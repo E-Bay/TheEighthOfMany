@@ -1,0 +1,25 @@
+div#Div1
+{
+    font-size:40px;
+    color:black;
+    text-align: center;
+width:800px;
+height:450px;
+background-image: url("imgs/World%20Map.jpg");
+background-repeat: no-repeat;
+}
+div#Div2
+{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+width:800px;
+height:450px;
+background-image: url("imgs/Tweets.jpg");
+}
+h1
+{
+    color:black;
+    font-size:24px;
+    margin:30px;
+}
